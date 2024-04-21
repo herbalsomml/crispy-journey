@@ -89,7 +89,6 @@ At runtime it checks all records of running processes and tries to stop those wh
 
 
 ## 🔗 My Links
-[![portfolio](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/herbalsomml)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/herbalsomml)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/herbalsomml)
 
 
