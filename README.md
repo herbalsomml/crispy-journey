@@ -5,6 +5,7 @@
 # Member Info Web Backend
 
 This project is a backend for the Chaturbate Member Info project
+⛏️ This is not a finished version, just a project in development ⛏️
 
 📚 Libs:
 -
