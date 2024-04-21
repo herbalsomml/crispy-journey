@@ -84,13 +84,9 @@ At runtime it checks all records of running processes and tries to stop those wh
   python manage.pu stop_inactive_poller_processes
 ```
 
-
-## 💀 Support
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/ihatemylifebutiluvmoney)
-
-
-## 🔗 My Links
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/herbalsomml)
+## 💀 Reach Me Here
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihatemylifebutiluvmoney)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/herbalsomml)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herbalsomml@gmail.com)
 
 
