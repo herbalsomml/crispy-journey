@@ -72,7 +72,7 @@ At runtime, this script checks all license records and marks as inactive those t
 
 #### How to execute:
 ```bash
-  python manage.pu update_licenses
+  python manage.py update_licenses
 ```
 
 ### 2. Stop Inactive Poller Processes
